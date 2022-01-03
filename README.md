@@ -12,8 +12,7 @@ Computer Science alumnus at [The Federal University of Mato Grosso](https://www.
 
 &nbsp;&nbsp;
 
-
-<br>
+<br/>
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/aroldo-goulart-barros">
