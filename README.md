@@ -14,6 +14,7 @@ Computer Science alumnus at [The Federal University of Mato Grosso](https://www.
 - Prisma (nodejs)
 - Aws + Cloudfront
 - CI/CD 
+- Dart 
 
 <p align='right'>
   
