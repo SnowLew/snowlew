@@ -10,11 +10,18 @@ Computer Science alumnus at [The Federal University of Mato Grosso](https://www.
 - [Idopter Labs](https://www.idopterlabs.com.br/)
 
 
+### Hobby
+> I am studying and applying the below technologies in:
+- [Slime Read](https://slimeread.com/)
+
+
 ### Studying
 - Prisma (nodejs)
 - Aws + Cloudfront
 - CI/CD 
 - Dart 
+
+
 
 <p align='right'>
   
@@ -31,4 +38,6 @@ Computer Science alumnus at [The Federal University of Mato Grosso](https://www.
   </a>&nbsp;&nbsp;
   
 </p>
+
+
 
