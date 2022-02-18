@@ -16,6 +16,7 @@ Computer Science alumnus at [The Federal University of Mato Grosso](https://www.
 
 
 ### Studying
+- NextJS
 - Prisma (nodejs)
 - Aws + Cloudfront
 - CI/CD 
