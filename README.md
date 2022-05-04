@@ -7,7 +7,6 @@ Computer Science alumnus at [The Federal University of Mato Grosso](https://www.
 > Developing with React Native, Typescript, redux and native modules.
 
 - [Estuda.com](https://estuda.com/)
-- [Idopter Labs](https://www.idopterlabs.com.br/)
 
 
 ### Hobby
